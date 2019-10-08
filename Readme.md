@@ -10,14 +10,14 @@ YOU are a goose. YOU love crimes. It's the village fete weekend. Your flock is g
 
 2. Roll 3D6 and pick one entry from each (or just choose!):
 
-|Role|Breed|Gear|
-|---|---|---|
-|1. Thief|1. Embden Goose: Scare|1. A pretty bow|
-|2. Brains|2. American Buff Goose: Strength|2. Sunglasses|
-|3. Scientist|3. Bar-headed Goose: Run|3. A KNIFE (it’s a harmless butter knife BUT STILL)|
-|4. Face|4. Egyptian Goose: Allure|4. A hollowed out cake|
-|5. Muscle|5. Tolouse Goose: Escape Artist|5. A golden bell|
-|6. Agent Of Chaos|6. White-fronted Goose: Hide|6. A sharpie|
+|Breed                              |Role               |Gear                                                   |
+|---                                |---                |---                                                    |
+|1. Embden Goose: Scare             |1. Thief           |1. A pretty bow                                        |
+|2. American Buff Goose: Strength   |2. Brains          |2. Sunglasses                                          |
+|3. Bar-headed Goose: Run           |3. Scientist       |3. A KNIFE (it’s a harmless butter knife BUT STILL)    |
+|4. Egyptian Goose: Allure          |4. Face            |4. A sharpie                                           |
+|5. Tolouse Goose: Escape Artist    |5. Muscle          |5. A golden bell                                       |
+|6. White-fronted Goose: Hide       |6. Agent Of Chaos  |6. 240v Electromagnetic Device Scrambler (one use only)|
 
 As a GOOSE you can only talk to other waterfowl. This means your flock, ducks, swans etc. You explicitly cannot communicate with humans outside of honks or flaps. Head points might work to a friendly human.
 
@@ -30,20 +30,20 @@ Roll your dice and compare each die result to your GOOSE NUMBER. If you’re usi
 * If two dice succeed, you do it well. Good job!
 * If three dice succeed, you get a critical success! The GM tells you some extra effect you get!
 
-If you roll your GOOSE NUMBER exactly, you have connected with the essential goosiness of the universe and get a special insight into what’s going on. You may ask the GM a question and they’ll answer you honestly, or you can just count it as a single success. Some good questions: Where are the Mayor’s car keys? How many geese will I need to lift the drain cover? Is Billy really not afraid of you or is he just frontin’? Will the ducks agree to a truce? You can change your action if you want to, then roll again.
+If you roll your GOOSE NUMBER exactly, you have connected with the essential goosiness of the universe and get a special insight into what’s going on. You may ask the GM a question and they’ll answer you honestly, or you can just count it as a single success. Some good questions: Where are the Mayor’s car keys? How many geese will I need to lift the drain cover? Is Billy really not afraid of me or is he just frontin’? Will the ducks agree to a truce? You can change your action if you want to, then roll again.
 
 **HELPING**: If you want to help someone else, who’s rolling, say how you try to help and make a roll. If you succeed, give them +1d.
 
 **GM**: Create The Fete
 
-|The village is famous for…|Your antagonist is…|The highlight of the fete is…|
-|---|---|---|
-|1. Flower displays|1. The nebbish neighbourhood watch|1. Measuring of the world’s biggest sunflower|
-|2. Model village|2. The burly pub landlord|2. Presentation of a giant renovation cheque|
-|3. Traction engine|3. The huffy town mayor|3. A speech by the mayor|
-|4. Locally crafted artisan pies|4. The calculating police sergeant|4. A pie eating contest|
-|5. The plague|5. The prim museum docent|5. A play by the schoolchildren|
-|6. Sizable duck pond|6. Duck gang!!|6. Unveiling a brand new duck hotel|
+|The village is famous for…         |Your antagonist is…                |The highlight of the fete is…                  |
+|---                                |---                                |---                                            |
+|1. Flower displays                 |1. The nebbish neighbourhood watch |1. Measuring of the world’s biggest sunflower  |
+|2. Model village                   |2. The burly pub landlord          |2. Presentation of a giant renovation cheque   |
+|3. Traction engine                 |3. The huffy town mayor            |3. A speech by the mayor                       |
+|4. Locally crafted artisan pies    |4. The calculating police sergeant |4. A pie eating contest                        |
+|5. The plague                      |5. The prim museum docent          |5. A play by the schoolchildren                |
+|6. Sizable duck pond               |6. Duck gang!!                     |6. Unveiling a brand new duck hotel            |
 
 By Neil Holmes (2019).
 Shamelessly stolen from Honey Heist by Grant Howitt and Lasers & Feelings by John Harper and Untitled Goose Game by House House.
