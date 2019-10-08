@@ -1,6 +1,8 @@
 # Be Goose Do Crime
 
-YOU are a goose. YOU love crimes. IT is the village fete weekend. Your flock is gonna bring the whole damn thing crashing down and honk over the ashes, spreading your beautiful wings and basking in a good time truly fucked up. By you. A goose.
+## A Goose Based Mini RPG
+
+YOU are a goose. YOU love crimes. It's the village fete weekend. Your flock is gonna bring the whole damn thing crashing down and honk over the ashes, spreading your beautiful wings and basking in a good time truly fucked up. By you. A goose.
 
 **PLAYERS**: create your GOOSE
 
@@ -44,4 +46,4 @@ If you roll your GOOSE NUMBER exactly, you have connected with the essential goo
 |6. Sizable duck pond|6. Duck gang!!|6. Unveiling a brand new duck hotel|
 
 By Neil Holmes (2019).
-Shamelessly stolen from Honey Heist by Grant Howitt and Lasers & Feelings by John Harper.
+Shamelessly stolen from Honey Heist by Grant Howitt and Lasers & Feelings by John Harper and Untitled Goose Game by House House.
