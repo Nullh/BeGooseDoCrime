@@ -1,2 +1,42 @@
 # Be Goose Do Crime
 
+YOU are a goose. YOU love crimes. IT is the village fete weekend. Your flock is gonna bring the whole damn thing crashing down and honk over the ashes, spreading your beautiful wings and basking in a good time truly fucked up. By you. A goose.
+
+**PLAYERS**: create your GOOSE
+
+1. Choose your GOOSE NUMBER, from 2 to 5. A high number means you’re better at HONKS (being loud, destructive, angry, direct). A low number means you’re better at HIDES (sneaking, running, making friends).
+
+2. Roll 3D6 and pick one entry from each (or just choose!):
+
+|Role| |Breed| |Gear|
+|---|---|---|---|---|
+|1. Thief| |1. Embden Goose: Scare| |1. A pretty bow|
+|2. Brains| |2. American Buff Goose: Strength| |2. Sunglasses|
+|3. Scientist| |3. Bar-headed Goose: Run| |3. A KNIFE (it’s a harmless butter knife BUT STILL)|
+|4. Face| |4. Egyptian Goose: Allure| |4. A hollowed out cake|
+|5. Muscle| |5. Tolouse Goose: Escape Artist| |5. A golden bell|
+|6. Agent Of Chaos| |6. White-fronted Goose: Hide| |6. A sharpie|
+
+As A GOOSE you can only talk to other waterfowl. This means your flock, ducks, swans etc. You explicitly cannot communicate with humans outside of honks or flaps. Head points might work to a friendly human.
+
+Roll the dice When you do something risky, roll 1d6 to find out how it goes. Roll +1d if you’re prepared and +1d if you’re good at the thing you're trying, or if you have a tool that can help. (The GM tells you how many dice to roll, based on your character and the situation.) Roll your dice and compare each die result to your GOOSE NUMBER. If you’re using HONKS (being loud, destructive), you want to roll under your number. If you’re using HIDES, (sneaking, communicating) you want to roll over your number.
+
+* If none of your dice succeed, it goes wrong. The GM says how things get worse somehow.
+* If one die succeeds, you barely manage it. The GM inflicts a complication, harm, or cost.
+* If two dice succeed, you do it well. Good job!
+* If three dice succeed, you get a critical success! The GM tells you some extra effect you get!
+
+If you roll your GOOSE NUMBER exactly, you have connected with the essential goosiness of the universe and get a special insight into what’s going on. Ask the GM a question and they’ll answer you honestly. Some good questions: Where are the Mayor’s car keys? How many geese will I need to lift the drain cover? Is Billy really not afraid of you or is he just frontin’? Will the ducks agree to a truce? You can change your action if you want to, then roll again.
+
+**HELPING**: If you want to help someone else, who’s rolling, say how you try to help and make a roll. If you succeed, give them +1d.
+
+**GM**: Create The Fete
+
+|The village is famous for…|   |Your antagonist is…|   |The highlight of the fete is…|
+|---|---|---|---|---|
+|1. Flower displays|   |1. The nebbish neighbourhood watch|   |1. Measuring of the world’s biggest sunflower|
+|2. Model village|   |2. The burly pub landlord|   |2. Presentation of a giant renovation cheque|
+|3. Traction engine|   |3. The huffy town mayor|   |3. A speech by the mayor|
+|4. Locally crafted artisan pies|   |4. The calculating police sergeant|   |4. A pie eating contest|
+|5. The plague|   |5. The prim museum docent|   |5. A play by the schoolchildren|
+|6. Sizable duck pond|   |6. Duck gang!!|   |6. Unveiling a brand new duck hotel|
