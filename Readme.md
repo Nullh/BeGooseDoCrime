@@ -19,7 +19,7 @@ YOU are a goose. YOU love crimes. It's the village fete weekend. Your flock is g
 |5. Muscle|5. Tolouse Goose: Escape Artist|5. A golden bell|
 |6. Agent Of Chaos|6. White-fronted Goose: Hide|6. A sharpie|
 
-As A GOOSE you can only talk to other waterfowl. This means your flock, ducks, swans etc. You explicitly cannot communicate with humans outside of honks or flaps. Head points might work to a friendly human.
+As a GOOSE you can only talk to other waterfowl. This means your flock, ducks, swans etc. You explicitly cannot communicate with humans outside of honks or flaps. Head points might work to a friendly human.
 
 **ROLLS**: Roll the dice when you do something risky. Roll 1d6 to find out how it goes. Roll +1d if you’re prepared and +1d if you’re good at the thing you're trying, or if you have a tool that can help. (The GM tells you how many dice to roll, based on your character and the situation.)
 
