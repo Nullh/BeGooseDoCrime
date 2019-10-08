@@ -19,14 +19,16 @@ YOU are a goose. YOU love crimes. IT is the village fete weekend. Your flock is 
 
 As A GOOSE you can only talk to other waterfowl. This means your flock, ducks, swans etc. You explicitly cannot communicate with humans outside of honks or flaps. Head points might work to a friendly human.
 
-**ROLLS**: Roll the dice When you do something risky, roll 1d6 to find out how it goes. Roll +1d if you’re prepared and +1d if you’re good at the thing you're trying, or if you have a tool that can help. (The GM tells you how many dice to roll, based on your character and the situation.) Roll your dice and compare each die result to your GOOSE NUMBER. If you’re using HONKS (being loud, destructive), you want to roll under your number. If you’re using HIDES, (sneaking, communicating) you want to roll over your number.
+**ROLLS**: Roll the dice when you do something risky. Roll 1d6 to find out how it goes. Roll +1d if you’re prepared and +1d if you’re good at the thing you're trying, or if you have a tool that can help. (The GM tells you how many dice to roll, based on your character and the situation.)
+
+Roll your dice and compare each die result to your GOOSE NUMBER. If you’re using HONKS (being loud, destructive), you want to roll under your number. If you’re using HIDES, (sneaking, communicating) you want to roll over your number.
 
 * If none of your dice succeed, it goes wrong. The GM says how things get worse somehow.
 * If one die succeeds, you barely manage it. The GM inflicts a complication, harm, or cost.
 * If two dice succeed, you do it well. Good job!
 * If three dice succeed, you get a critical success! The GM tells you some extra effect you get!
 
-If you roll your GOOSE NUMBER exactly, you have connected with the essential goosiness of the universe and get a special insight into what’s going on. Ask the GM a question and they’ll answer you honestly. Some good questions: Where are the Mayor’s car keys? How many geese will I need to lift the drain cover? Is Billy really not afraid of you or is he just frontin’? Will the ducks agree to a truce? You can change your action if you want to, then roll again.
+If you roll your GOOSE NUMBER exactly, you have connected with the essential goosiness of the universe and get a special insight into what’s going on. You may ask the GM a question and they’ll answer you honestly, or you can just count it as a single success. Some good questions: Where are the Mayor’s car keys? How many geese will I need to lift the drain cover? Is Billy really not afraid of you or is he just frontin’? Will the ducks agree to a truce? You can change your action if you want to, then roll again.
 
 **HELPING**: If you want to help someone else, who’s rolling, say how you try to help and make a roll. If you succeed, give them +1d.
 
