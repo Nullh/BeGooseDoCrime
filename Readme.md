@@ -8,14 +8,14 @@ YOU are a goose. YOU love crimes. IT is the village fete weekend. Your flock is 
 
 2. Roll 3D6 and pick one entry from each (or just choose!):
 
-|Role| |Breed| |Gear|
-|---|---|---|---|---|
-|1. Thief| |1. Embden Goose: Scare| |1. A pretty bow|
-|2. Brains| |2. American Buff Goose: Strength| |2. Sunglasses|
-|3. Scientist| |3. Bar-headed Goose: Run| |3. A KNIFE (it’s a harmless butter knife BUT STILL)|
-|4. Face| |4. Egyptian Goose: Allure| |4. A hollowed out cake|
-|5. Muscle| |5. Tolouse Goose: Escape Artist| |5. A golden bell|
-|6. Agent Of Chaos| |6. White-fronted Goose: Hide| |6. A sharpie|
+|Role|Breed|Gear|
+|---|---|---|
+|1. Thief|1. Embden Goose: Scare|1. A pretty bow|
+|2. Brains|2. American Buff Goose: Strength|2. Sunglasses|
+|3. Scientist|3. Bar-headed Goose: Run|3. A KNIFE (it’s a harmless butter knife BUT STILL)|
+|4. Face|4. Egyptian Goose: Allure|4. A hollowed out cake|
+|5. Muscle|5. Tolouse Goose: Escape Artist|5. A golden bell|
+|6. Agent Of Chaos|6. White-fronted Goose: Hide|6. A sharpie|
 
 As A GOOSE you can only talk to other waterfowl. This means your flock, ducks, swans etc. You explicitly cannot communicate with humans outside of honks or flaps. Head points might work to a friendly human.
 
@@ -34,11 +34,14 @@ If you roll your GOOSE NUMBER exactly, you have connected with the essential goo
 
 **GM**: Create The Fete
 
-|The village is famous for…|   |Your antagonist is…|   |The highlight of the fete is…|
-|---|---|---|---|---|
-|1. Flower displays|   |1. The nebbish neighbourhood watch|   |1. Measuring of the world’s biggest sunflower|
-|2. Model village|   |2. The burly pub landlord|   |2. Presentation of a giant renovation cheque|
-|3. Traction engine|   |3. The huffy town mayor|   |3. A speech by the mayor|
-|4. Locally crafted artisan pies|   |4. The calculating police sergeant|   |4. A pie eating contest|
-|5. The plague|   |5. The prim museum docent|   |5. A play by the schoolchildren|
-|6. Sizable duck pond|   |6. Duck gang!!|   |6. Unveiling a brand new duck hotel|
+|The village is famous for…|Your antagonist is…|The highlight of the fete is…|
+|---|---|---|
+|1. Flower displays|1. The nebbish neighbourhood watch|1. Measuring of the world’s biggest sunflower|
+|2. Model village|2. The burly pub landlord|2. Presentation of a giant renovation cheque|
+|3. Traction engine|3. The huffy town mayor|3. A speech by the mayor|
+|4. Locally crafted artisan pies|4. The calculating police sergeant|4. A pie eating contest|
+|5. The plague|5. The prim museum docent|5. A play by the schoolchildren|
+|6. Sizable duck pond|6. Duck gang!!|6. Unveiling a brand new duck hotel|
+
+By Neil Holmes (2019).
+Shamelessly stolen from Honey Heist by Grant Howitt and Lasers & Feelings by John Harper.
