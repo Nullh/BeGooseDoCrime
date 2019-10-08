@@ -19,7 +19,7 @@ YOU are a goose. YOU love crimes. IT is the village fete weekend. Your flock is 
 
 As A GOOSE you can only talk to other waterfowl. This means your flock, ducks, swans etc. You explicitly cannot communicate with humans outside of honks or flaps. Head points might work to a friendly human.
 
-Roll the dice When you do something risky, roll 1d6 to find out how it goes. Roll +1d if you’re prepared and +1d if you’re good at the thing you're trying, or if you have a tool that can help. (The GM tells you how many dice to roll, based on your character and the situation.) Roll your dice and compare each die result to your GOOSE NUMBER. If you’re using HONKS (being loud, destructive), you want to roll under your number. If you’re using HIDES, (sneaking, communicating) you want to roll over your number.
+**ROLLS**: Roll the dice When you do something risky, roll 1d6 to find out how it goes. Roll +1d if you’re prepared and +1d if you’re good at the thing you're trying, or if you have a tool that can help. (The GM tells you how many dice to roll, based on your character and the situation.) Roll your dice and compare each die result to your GOOSE NUMBER. If you’re using HONKS (being loud, destructive), you want to roll under your number. If you’re using HIDES, (sneaking, communicating) you want to roll over your number.
 
 * If none of your dice succeed, it goes wrong. The GM says how things get worse somehow.
 * If one die succeeds, you barely manage it. The GM inflicts a complication, harm, or cost.
