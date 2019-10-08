@@ -13,7 +13,7 @@ YOU are a goose. YOU love crimes. It's the village fete weekend. Your flock is g
 |Breed                              |Role               |Gear                                                   |
 |---                                |---                |---                                                    |
 |1. Embden Goose: Scare             |1. Thief           |1. A pretty bow                                        |
-|2. American Buff Goose: Strength   |2. Brains          |2. Sunglasses                                          |
+|2. American Buff Goose: Strength   |2. Brains          |2. A glass bottle                                      |
 |3. Bar-headed Goose: Run           |3. Scientist       |3. A KNIFE (it’s a harmless butter knife BUT STILL)    |
 |4. Egyptian Goose: Allure          |4. Face            |4. A sharpie                                           |
 |5. Tolouse Goose: Escape Artist    |5. Muscle          |5. A golden bell                                       |
