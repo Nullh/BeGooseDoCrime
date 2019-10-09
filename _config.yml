@@ -5,3 +5,5 @@ twitter_username: nullh
 github_username: nullh
 url: "https://nullh.github.io/"
 baseurl: "/BeGooseDoCrime/"
+
+theme: jekyll-theme-merlot
