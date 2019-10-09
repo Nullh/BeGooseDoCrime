@@ -1,7 +1,3 @@
-# Be Goose Do Crime
-
-## A Goose Based Mini RPG
-
 YOU are a goose. YOU love crimes. It's the village fete weekend. Your flock is gonna bring the whole damn thing crashing down and honk over the ashes, spreading your beautiful wings and basking in a good time truly fucked up. By you. A goose.
 
 **PLAYERS**: create your GOOSE
@@ -18,6 +14,8 @@ YOU are a goose. YOU love crimes. It's the village fete weekend. Your flock is g
 |4. Egyptian Goose: Allure          |4. Face            |4. A sharpie                                           |
 |5. Tolouse Goose: Escape Artist    |5. Muscle          |5. A golden bell                                       |
 |6. White-fronted Goose: Hide       |6. Agent Of Chaos  |6. 240v Electromagnetic Device Scrambler (one use only)|
+
+**GOAL**: The village fete is this weekend. It will culminate with a big event, which it is your goal to ruin by whatever means necessary. You have one day to make your plans and lay your schemes, then during the final grand ceremony spring your GOOSEY TRAP! Your motivation is up to you, maybe the quality of thrown bread has been poor, maybe the humans have ruined your ancient ceremonial rites for the last time, whatever it is you are going to absolutely ruin this final ceremony. Think Carrie. But with GEESE.
 
 As a GOOSE you can only talk to other waterfowl. This means your flock, ducks, swans etc. You explicitly cannot communicate with humans outside of honks or flaps. Head points might work to a friendly human.
 
@@ -36,7 +34,7 @@ If you roll your GOOSE NUMBER exactly, you have connected with the essential goo
 
 **GM**: Create The Fete
 
-|The village is famous for…         |Your antagonist is…                |The highlight of the fete is…                  |
+|The village is famous for…         |Your antagonist is…                |The final ceremony of the fete is…             |
 |---                                |---                                |---                                            |
 |1. Flower displays                 |1. The nebbish neighbourhood watch |1. Measuring of the world’s biggest sunflower  |
 |2. Model village                   |2. The burly pub landlord          |2. Presentation of a giant renovation cheque   |
@@ -47,3 +45,4 @@ If you roll your GOOSE NUMBER exactly, you have connected with the essential goo
 
 By Neil Holmes (2019).
 Shamelessly stolen from Honey Heist by Grant Howitt and Lasers & Feelings by John Harper and Untitled Goose Game by House House.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
