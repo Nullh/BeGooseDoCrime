@@ -43,8 +43,9 @@ If you roll your GOOSE NUMBER exactly, you have connected with the essential goo
 |5. The plague                      |5. The prim museum docent          |5. A play by the schoolchildren                |
 |6. Sizable duck pond               |6. Duck gang!!                     |6. Unveiling a brand new duck hotel            |
 
-<div class="centerimg"></div>
+<div class="centerimg">
 ![KNIFE GOOSE!](./assets/images/knifegoose.jpg "KNIFE GOOSE!")
+</div>
 
 ---
 
