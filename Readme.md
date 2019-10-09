@@ -1,7 +1,5 @@
 YOU are a goose. YOU love crimes. It's the village fete weekend. Your flock is gonna bring the whole damn thing crashing down and honk over the ashes, spreading your beautiful wings and basking in a good time truly fucked up. By you. A goose.
 
-![KNIFE GOOSE!](./knifegoose.jpg "KNIFE GOOSE!")
-
 **PLAYERS**: create your GOOSE
 
 1. Choose your GOOSE NUMBER, from 2 to 5. A high number means you’re better at HONKS (being loud, destructive, angry, direct). A low number means you’re better at HIDES (sneaking, running, making friends).
@@ -44,6 +42,9 @@ If you roll your GOOSE NUMBER exactly, you have connected with the essential goo
 |4. Locally crafted artisan pies    |4. The calculating police sergeant |4. A pie eating contest                        |
 |5. The plague                      |5. The prim museum docent          |5. A play by the schoolchildren                |
 |6. Sizable duck pond               |6. Duck gang!!                     |6. Unveiling a brand new duck hotel            |
+
+<div class="centerimg"></div>
+![KNIFE GOOSE!](./assets/images/knifegoose.jpg "KNIFE GOOSE!")
 
 ---
 
