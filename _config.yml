@@ -2,9 +2,11 @@ remote_theme: chibicode/duo
 title: Be Goose Do Crime
 description: "A Goose Based Mini RPG"
 author:
-    name: Neil Holmes
-    twitter: nullh
-twitter_username: nullh
-github_username: nullh
-url: https://nullh.github.io/BeGooseDoCrime/
-skin: soft
+  name: Neil Holmes
+  twitter: nullh
+twitter:
+  username: nullh
+url: "https://nullh.github.io/"
+baseurl: "/BeGooseDoCrime/"
+brand_color: "amber-400"
+lang: "en"
