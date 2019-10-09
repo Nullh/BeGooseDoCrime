@@ -1,5 +1,7 @@
 YOU are a goose. YOU love crimes. It's the village fete weekend. Your flock is gonna bring the whole damn thing crashing down and honk over the ashes, spreading your beautiful wings and basking in a good time truly fucked up. By you. A goose.
 
+![](./knifegoose.jpg "KNIFE GOOSE!")
+
 **PLAYERS**: create your GOOSE
 
 1. Choose your GOOSE NUMBER, from 2 to 5. A high number means you’re better at HONKS (being loud, destructive, angry, direct). A low number means you’re better at HIDES (sneaking, running, making friends).
