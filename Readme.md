@@ -1,10 +1,10 @@
-YOU are a goose. YOU love crimes. It's the village fete weekend. Your flock is gonna bring the whole damn thing crashing down and honk over the ashes, spreading your beautiful wings and basking in a good time truly fucked up. By you. A goose.
+**YOU** are a goose. You love crimes. It's the village fete weekend. Your flock is gonna bring the whole damn thing crashing down and honk over the ashes, spreading your beautiful wings and basking in a good time truly fucked up. By you. A goose.
 
 <p><img src="./assets/images/knifegoose.png" alt="KNIFE GOOSE!" title="KNIFE GOOSE!" class="centerimg"/></p>
 
-## **PLAYERS**: create your GOOSE
+## **PLAYERS**: create your **GOOSE**
 
-1. Choose your GOOSE NUMBER, from 2 to 5. A high number means you’re better at HONKS (being loud, destructive, angry, direct). A low number means you’re better at HIDES (sneaking, running, making friends).
+1. Choose your **GOOSE NUMBER**, from 2 to 5. A high number means you’re better at **HONKS** (being loud, destructive, angry, direct). A low number means you’re better at **HIDES** (sneaking, running, making friends).
 
 2. Roll 3D6 and pick one entry from each (or just choose!):
 
