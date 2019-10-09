@@ -1,6 +1,6 @@
 YOU are a goose. YOU love crimes. It's the village fete weekend. Your flock is gonna bring the whole damn thing crashing down and honk over the ashes, spreading your beautiful wings and basking in a good time truly fucked up. By you. A goose.
 
-![](./knifegoose.jpg "KNIFE GOOSE!")
+![KNIFE GOOSE!](./knifegoose.jpg "KNIFE GOOSE!")
 
 **PLAYERS**: create your GOOSE
 
@@ -48,6 +48,9 @@ If you roll your GOOSE NUMBER exactly, you have connected with the essential goo
 ---
 
 By Neil Holmes (2019).
+
 Shamelessly stolen from [Honey Heist](https://gshowitt.itch.io/honey-heist) by Grant Howitt and [Lasers & Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf) by John Harper and [Untitled Goose Game](https://goose.game/) by House House.
+
+Art by [Kate Crashed](https://www.instagram.com/kate_crashed/).
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
