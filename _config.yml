@@ -1,4 +1,4 @@
-remote_theme: diezcami/arctic-fox-theme
+theme: jekyll-theme-merlot
 title: Be Goose Do Crime
 description: "A Goose Based Mini RPG"
 twitter_username: nullh
@@ -6,4 +6,3 @@ github_username: nullh
 url: "https://nullh.github.io/"
 baseurl: "/BeGooseDoCrime/"
 
-theme: jekyll-theme-merlot
