@@ -43,7 +43,9 @@ If you roll your GOOSE NUMBER exactly, you have connected with the essential goo
 |5. The plague                      |5. The prim museum docent          |5. A play by the schoolchildren                |
 |6. Sizable duck pond               |6. Duck gang!!                     |6. Unveiling a brand new duck hotel            |
 
+---
+
 By Neil Holmes (2019).
-Shamelessly stolen from Honey Heist by Grant Howitt and Lasers & Feelings by John Harper and Untitled Goose Game by House House.
+Shamelessly stolen from [Honey Heist](https://gshowitt.itch.io/honey-heist) by Grant Howitt and [Lasers & Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf) by John Harper and [Untitled Goose Game](https://goose.game/) by House House.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
