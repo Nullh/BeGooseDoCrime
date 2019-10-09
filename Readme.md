@@ -2,7 +2,7 @@ YOU are a goose. YOU love crimes. It's the village fete weekend. Your flock is g
 
 <p><img src="./assets/images/knifegoose.png" alt="KNIFE GOOSE!" title="KNIFE GOOSE!" class="centerimg"/></p>
 
-**PLAYERS**: create your GOOSE
+## **PLAYERS**: create your GOOSE
 
 1. Choose your GOOSE NUMBER, from 2 to 5. A high number means you’re better at HONKS (being loud, destructive, angry, direct). A low number means you’re better at HIDES (sneaking, running, making friends).
 
@@ -17,24 +17,28 @@ YOU are a goose. YOU love crimes. It's the village fete weekend. Your flock is g
 |5. Tolouse Goose: Escape Artist    |5. Muscle          |5. A golden bell                                       |
 |6. White-fronted Goose: Hide       |6. Agent Of Chaos  |6. 240v Electromagnetic Device Scrambler (one use only)|
 
-**GOAL**: The village fete is this weekend. It will culminate with a big event, which it is your goal to ruin by whatever means necessary. You have one day to make your plans and lay your schemes, then during the final grand ceremony spring your GOOSEY TRAP! Your motivation is up to you, maybe the quality of thrown bread has been poor, maybe the humans have ruined your ancient ceremonial rites for the last time, whatever it is you are going to absolutely ruin this final ceremony. Think Carrie. But with GEESE.
+## **GOAL**: Ruin the Village Fete
 
-As a GOOSE you can only talk to other waterfowl. This means your flock, ducks, swans etc. You explicitly cannot communicate with humans outside of honks or flaps. Head points might work to a friendly human.
+The village fete is this weekend. It will culminate with a big event, which it is your goal to ruin by whatever means necessary. You have one day to make your plans and lay your schemes, then during the final grand ceremony spring your **GOOSEY TRAP**! Your motivation is up to you, maybe the quality of thrown bread has been poor, maybe the humans have ruined your ancient ceremonial rites for the last time, whatever it is you are going to absolutely ruin this final ceremony. Think Carrie. But with **GEESE**.
 
-**ROLLS**: Roll the dice when you do something risky. Roll 1d6 to find out how it goes. Roll +1d if you’re prepared and +1d if you’re good at the thing you're trying, or if you have a tool that can help. (The GM tells you how many dice to roll, based on your character and the situation.)
+As a **GOOSE** you can only talk to other waterfowl. This means your flock, ducks, swans etc. You explicitly cannot communicate with humans outside of honks or flaps. Head points might work to a friendly human.
 
-Roll your dice and compare each die result to your GOOSE NUMBER. If you’re using HONKS (being loud, destructive), you want to roll under your number. If you’re using HIDES, (sneaking, communicating) you want to roll over your number.
+## **ROLLS**: Roll the dice when you do something risky.
+
+ Roll 1d6 to find out how it goes. Roll +1d if you’re prepared and +1d if you’re good at the thing you're trying, or if you have a tool that can help. (The GM tells you how many dice to roll, based on your character and the situation.)
+
+Roll your dice and compare each die result to your **GOOSE NUMBER**. If you’re using **HONKS** (being loud, destructive), you want to roll under your number. If you’re using **HIDES**, (sneaking, communicating) you want to roll over your number.
 
 * If none of your dice succeed, it goes wrong. The GM says how things get worse somehow.
 * If one die succeeds, you barely manage it. The GM inflicts a complication, harm, or cost.
 * If two dice succeed, you do it well. Good job!
 * If three dice succeed, you get a critical success! The GM tells you some extra effect you get!
 
-If you roll your GOOSE NUMBER exactly, you have connected with the essential goosiness of the universe and get a special insight into what’s going on. You may ask the GM a question and they’ll answer you honestly, or you can just count it as a single success. Some good questions: Where are the Mayor’s car keys? How many geese will I need to lift the drain cover? Is Billy really not afraid of me or is he just frontin’? Will the ducks agree to a truce? You can change your action if you want to, then roll again.
+If you roll your **GOOSE NUMBER** exactly, you have connected with the essential goosiness of the universe and get a special insight into what’s going on. You may ask the GM a question and they’ll answer you honestly, or you can just count it as a single success. Some good questions: Where are the Mayor’s car keys? How many geese will I need to lift the drain cover? Is Billy really not afraid of me or is he just frontin’? Will the ducks agree to a truce? You can change your action if you want to, then roll again.
 
-**HELPING**: If you want to help someone else, who’s rolling, say how you try to help and make a roll. If you succeed, give them +1d.
+If you want to help someone else, who’s rolling, say how you try to help and make a roll. If you succeed, give them +1d.
 
-**GM**: Create The Fete
+## **GM**: Create The Fete
 
 |The village is famous for…         |Your antagonist is…                |The final ceremony of the fete is…             |
 |---                                |---                                |---                                            |
