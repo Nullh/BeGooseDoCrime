@@ -51,7 +51,8 @@ If you want to help someone else, who’s rolling, say how you try to help and m
 
 ---
 
-By Neil Holmes (2019).
+By Neil Holmes - [@Nullh](https://twitter.com/Nullh) (2019).
+Let me know if you give the game a go!
 
 Shamelessly stolen from [Honey Heist](https://gshowitt.itch.io/honey-heist) by Grant Howitt and [Lasers & Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf) by John Harper and [Untitled Goose Game](https://goose.game/) by House House. Name is a pun on the awesome [Be Gay Do Crimes](https://saftware.itch.io/be-gay-do-crimes) by Evan Saft.
 
